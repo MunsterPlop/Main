@@ -1,13 +1,13 @@
 {
-    "version": "123586",
+    "version": "123588",
     "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
     "homepage": "https://ffmpeg.org",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-03-22-12-59/ffmpeg-N-123586-g711b1a52bd-win64-gpl.zip",
-            "hash": "a98f074b7460d6e8c815320982f0fa44f2370831b931d504a30b31ea6a628dbd",
-            "extract_dir": "ffmpeg-N-123586-g711b1a52bd-win64-gpl"
+            "url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-03-23-13-11/ffmpeg-N-123588-g9c63742425-win64-gpl.zip",
+            "hash": "306806efa72d319cdf738c46d509ad0525ec124380865eceb50edfe23c15b891",
+            "extract_dir": "ffmpeg-N-123588-g9c63742425-win64-gpl"
         }
     },
     "post_install": [
